@@ -1,0 +1,13 @@
+<toast scenario="reminder" launch="GOhttps://tv.uwp.ac.cn/tv">
+  <visual>
+    <binding template="ToastGeneric">
+   <image placement="hero" src="http://m.qpic.cn/psb?/V12qvadu0vynRD/fAnaAQhKi9iY*HaVVNlKB4dY9NBRatHKc*vALKFysgY!/b/dDcBAAAAAAAA"/>
+      <text>Hello, TV 即将停止服务</text>
+      <text>感谢大家的支持和理解，出于复杂原因，应用即将停服，对不起。</text>
+    </binding>
+  </visual>
+ <actions>
+   <action content="查看详情" activationType="foreground" arguments="GOhttps://tv.uwp.ac.cn/tv"/>
+   <action content="忽略"  activationType="system"  arguments="dismiss" />
+  </actions>
+</toast>
