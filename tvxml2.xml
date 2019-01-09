@@ -1,0 +1,9 @@
+<toast launch="GOhttps://tv.uwp.ac.cn/tv">
+<visual>
+<binding template="ToastGeneric">
+<text>Hello, TV 永久免费 不要上当</text>
+<text placement="attribution">点击查看详情</text>
+<image placement="hero" src="http://r.photo.store.qq.com/psb?/V12qvadu0vynRD/MViV07H8f4GsGfuvAU98jOQ4dr2wXuV6qaKr0wxibxM!/r/dPMAAAAAAAAA"/>
+</binding>
+</visual>
+</toast>
