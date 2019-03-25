@@ -1,13 +1,1 @@
-<toast launch="GOhttps://www.wenjuan.com/s/iEZfeya/">
-  <visual>
-    <binding template="ToastGeneric">
-  <text>《电视》应用用户满意度问卷调查</text>
-  <text>我们一直在努力满足用户们的诉求，麻烦各位有时间填写本问卷，我们将提供更好的用户体验，谢谢！</text>
-   <image placement="inline"  src="http://r.photo.store.qq.com/psb?/V12qvadu0vynRD/WwCdM9nKAueLnRSoTDj4aWH*l9BnZ0JzrU*J6FDKlZQ!/r/dF4BAAAAAAAA"/>
-    </binding>
-  </visual>
- <actions>
-   <action content="前往填写" activationType="foreground" arguments="GOhttps://www.wenjuan.com/s/iEZfeya/"/>
-   <action content="拒绝填写"  activationType="system" arguments="dismiss"  />
-  </actions>
-</toast>
+
