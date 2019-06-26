@@ -1,1 +1,10 @@
-
+<toast launch="GOhttps://www.wenjuan.com/s/zIVJRv/">
+<visual>
+<binding template="ToastGeneric">
+<text>欢迎参加用户需求问卷调查</text>
+<text>填写只需10分钟，欢迎留下您的宝贵建议</text>
+<text placement="attribution">不想填写，右划忽略，抱歉打扰啦</text>
+<image  src="http://r.photo.store.qq.com/psb?/V12qvadu0vynRD/WwCdM9nKAueLnRSoTDj4aWH*l9BnZ0JzrU*J6FDKlZQ!/r/dF4BAAAAAAAA"/>
+</binding>
+</visual>
+</toast>
